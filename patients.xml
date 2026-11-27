@@ -9,7 +9,7 @@
   <patient id="P-102" status="stable">
         <name>Bob Smith</name>
         <ward>General</ward>
-        <condition>Headache & mild fever</condition>
+        <condition>Headache &amp; mild fever</condition>
         <observation code="TEMP" unit="C">101</observation>
   </patient>
 
